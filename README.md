@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @yar2000T
 - 👀 I’m interested in Python projects
 - 🌱 I’m currently learning Arduino and Python
-- 📫 How to reach me: you can write on my gmail: school15yaroslav@gmail.com
+- 📫 How to reach me: you can write on my whatssup or telegram: +380970345989
 
 <!---
 yar2000T/yar2000T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
