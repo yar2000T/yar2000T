@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yar2000T
-- 👀 I’m interested in Python projects
-- 🌱 I’m currently learning Arduino and Python
+- 👀 I’m interested in Python projects, C++/ C/ C#
+- 🌱 I’m currently learning machine learning
 - 📫 How to reach me: you can write on my whatssup or telegram: +380970345989
 
 <!---
