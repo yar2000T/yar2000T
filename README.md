@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm a professional Python developer 
 
-
+![](https://komarev.com/ghpvc/?username=yar2000T&color=blue)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1268477765330538550) 
 
