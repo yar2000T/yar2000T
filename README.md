@@ -1,10 +1,14 @@
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yar2000T&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yar2000T&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yar2000T&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yar2000T&rank=SECRET,SSS,SS,S&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1" />
+</p>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yar2000T&rank=AAA,AA,A&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=yar2000T&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center" style="witdh:50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=yar2000T&show_icons=true&count_private=true&hide_title=true&theme=dracula" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yar2000T&theme=dracula&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6" style="width:420px;height:auto" />
+</p>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1268477765330538550)
