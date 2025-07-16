@@ -1,4 +1,15 @@
 <p align="center">
+  <img src="https://github.com/yar2000T/LANCryptor/blob/master/assets/banner.png" alt="LANCryptor Banner" width="700"/>
+</p>
+
+[//]: # (<h1 align="center">LANCryptor</h1>)
+
+<p align="center"><em>
+  A simple, secure LAN file transfer app with a modern GUI built using <a href="https://github.com/TomSchimansky/CustomTkinter">CustomTkinter</a>.
+  Featuring RSA + AES encryption, confirmation dialogs, and progress tracking — available via GUI or CLI.
+</em></p>
+
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yar2000T&rank=SECRET,SSS,SS,S&theme=dracula&no-frame=false&no-bg=false&margin-w=4&column=-1" />
 </p>
 <p align="center">
