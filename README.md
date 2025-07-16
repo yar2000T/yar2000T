@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/github/stars/yar2000T/LANCryptor?style=for-the-badge&logo=github" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/issues/yar2000T/LANCryptor?style=for-the-badge&logo=github" alt="Open Issues"/>
   <img src="https://img.shields.io/github/downloads/yar2000T/LANCryptor/latest/total?style=for-the-badge&label=Downloads&logo=github" alt="Downloads"/>
-
 </p>
 
 ---
