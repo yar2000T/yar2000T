@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"><em>
-  A simple, secure LAN file transfer app with a modern GUI.
+  A simple, secure LAN file transfer app with a modern GUI.<br>
   Features RSA + AES encryption, confirmation dialogs, progress tracking, and dual GUI/CLI modes.
 </em></p>
 
