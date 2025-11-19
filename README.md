@@ -1,12 +1,4 @@
 <p align="center">
-  <a href="https://www.sheepit-renderfarm.com/?tag=yar2000T" target="_blank">
-    <img src="https://www.sheepit-renderfarm.com/media/image/public/banner/Sheepit-Banner_01.png" 
-         alt="Sheepit-Banner" 
-         width="700"/>
-  </a>
-</p>
-
-<p align="center">
   <img src="https://github.com/yar2000T/LANCryptor/blob/master/assets/banner.png?raw=true" alt="LANCryptor Banner" width="700"/>
 </p>
 
