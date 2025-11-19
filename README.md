@@ -3,7 +3,7 @@
 </p>
 
 <p align="center"><em>
-  A simple, secure LAN file transfer app with a modern GUI built using <a href="https://github.com/TomSchimansky/CustomTkinter">CustomTkinter</a>.<br>
+  A simple, secure LAN file transfer app with a modern GUI.
   Features RSA + AES encryption, confirmation dialogs, progress tracking, and dual GUI/CLI modes.
 </em></p>
 
